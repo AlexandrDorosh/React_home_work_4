@@ -1,0 +1,7 @@
+.home_page{
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    margin-top: 100px;
+    font-size: 30px;
+}
